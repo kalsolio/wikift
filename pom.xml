@@ -95,7 +95,7 @@
         <plugin.frontend.version>1.6</plugin.frontend.version>
         <plugin.springboot.version>1.1.8.RELEASE</plugin.springboot.version>
         <!-- dependencie version -->
-        <spring.boot.version>1.5.6.RELEASE</spring.boot.version>
+        <spring.boot.version>1.5.16.RELEASE</spring.boot.version>
         <spring.security.version>1.5.9.RELEASE</spring.security.version>
         <spring.security.jwt.version>1.0.8.RELEASE</spring.security.jwt.version>
         <spring.security.oauth2.version>2.1.1.RELEASE</spring.security.oauth2.version>
